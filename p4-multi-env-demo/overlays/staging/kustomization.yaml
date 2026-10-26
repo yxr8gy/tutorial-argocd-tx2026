@@ -8,9 +8,6 @@ resources:
 
 namePrefix: staging-
 
-images:
-  - name: nginx
-    newTag: 1.26-alpine
 patches:
   - patch: |-
       - op: replace
