@@ -14,7 +14,7 @@ spec:
         replicaCount: 2
         ui:
           color: "#27a35a"
-          message: "Helm-deployed podinfo!"
+          message: "Helm-deployed!"
         service:
           type: NodePort
           nodePort: 32199
